@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+03 cubo/potencia/potencia.cbp
+03 cubo/potencia/potencia.depend
+03 cubo/potencia/potencia.layout
