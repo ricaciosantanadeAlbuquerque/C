@@ -53,3 +53,14 @@ dkms.conf
 03 cubo/potencia/potencia.cbp
 03 cubo/potencia/potencia.depend
 03 cubo/potencia/potencia.layout
+area_do_circulo/circulo/circulo.cbp
+Antecesor e sucessor/antecessor/antecessor.cbp
+Antecesor e sucessor/antecessor/antecessor.depend
+Antecesor e sucessor/antecessor/antecessor.layout
+area_do_circulo/circulo/circulo.depend
+area_do_circulo/circulo/circulo.layout
+área do terreno/area_do_retangulo/area_do_retangulo.cbp
+A soma de a+b/soma_a+b/soma_a+b.depend
+A soma de a+b/soma_a+b/soma_a+b.layout
+área do terreno/area_do_retangulo/area_do_retangulo.layout
+A soma de a+b/soma_a+b/soma_a+b.cbp
